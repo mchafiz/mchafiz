@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mchafiz
 - 👀 I’m interested in Programming, SysAdmin and QA
-- 🌱 I’m currently learning Flutter Dev, Linux, Vue js
+- 🌱 I’m currently learning Flutter Dev, Linux, Vue js, React js
 
 
 <!---
