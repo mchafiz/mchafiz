@@ -5,8 +5,7 @@ Person who is passionate about creating dynamic websites using React, Next.js, J
 ### About me:
 
 - 🌱 Currently working on dynamic web development with React, Next.js, and Jenkins for CI/CD.
-- 💬 Ask me about ...
-- 📫 How to reach me: Muhammad Chaerul Hafiz
+- 📫 How to reach me: mchafishcake@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Quick learner with good problem-solving skills
 
