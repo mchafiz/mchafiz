@@ -7,7 +7,7 @@ Person who is passionate about creating dynamic websites using React, Next.js, J
 - 🌱 Currently working on dynamic web development with React, Next.js, and Jenkins for CI/CD.
 - 💬 Ask me about ...
 - 📫 How to reach me: Muhammad Chaerul Hafiz
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Quick learner with good problem-solving skills
 
 </details>
